@@ -782,6 +782,6 @@ else:
 st.divider()
 
 st.caption(
-    "Biodiesel Reactor Simulator | Custom RK4 Model | "
-    "Educational Simulation"
+    "Biodiesel Reactor Simulator | By: E31_CHCOAP31Z | "
+    "Final Output: Dynamic Modeling and Optimization of a Non-Isothermal Batch Transesterification Reactor"
 )
